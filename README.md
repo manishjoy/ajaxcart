@@ -12,7 +12,6 @@
 
 ___________________________________________________________________________________________________
 
-## Liked my work?
 ### Screenshots:
 
 <img src="https://image.ibb.co/fGJvgm/add_to_cart.png" alt="Adding-SS" title="Screenshot 1">
