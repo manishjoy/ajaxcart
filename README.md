@@ -1,12 +1,23 @@
-# ManishJoy_Core v1.0.0
+# ManishJoy_AjaxCart v1.0.0
 ## Magento 2 Extension
 
-#### Free magento 2 extension to add to cart using ajax
+### Free magento 2 extension to add to cart using ajax
+
+### Magento Doesn't have Ajax supported Add To Cart on product page out of the box, this extension enables this feature
 
 ## Features:
 1. Easy to use
 2. Looks like core functionality of Magento (at backend as well as frontend)
 3. Unencrypted code for easy customization
+
+___________________________________________________________________________________________________
+
+## Liked my work?
+### Screenshots:
+
+<img src="https://image.ibb.co/fGJvgm/add_to_cart.png" alt="Adding-SS" title="Screenshot 1">
+
+
 ___________________________________________________________________________________________________
 
 ### The extension is free and always will be
