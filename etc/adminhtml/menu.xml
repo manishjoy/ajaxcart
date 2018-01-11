@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+       <add id="ManishJoy_AjaxCart::ajaxcart" title="Ajax Cart" module="ManishJoy_AjaxCart" sortOrder="20" parent="ManishJoy_Core::core" resource="ManishJoy_Core::core" />
+        <add id="ManishJoy_AjaxCart::ajaxcart_manage_config" title="Configuration" module="ManishJoy_AjaxCart" sortOrder="10" parent="ManishJoy_AjaxCart::ajaxcart" action="adminhtml/system_config/edit/section/ajaxcart" resource="ManishJoy_AjaxCart::manage"/>
+    </menu>
+</config>

@@ -1,0 +1,30 @@
+{
+    "name": "manishjoy/module-ajaxcart",
+    "description": "free magento 2 extension to add to cart using ajax",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0",
+        "manishjoy/module-core": "*"
+    },
+    "authors": [
+        {
+          "name": "Manish Joy",
+          "email": "manishjoy1993@hotmail.com",
+          "homepage": "https://in.linkedin.com/in/manishjoy",
+          "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "ManishJoy\\AjaxCart\\": ""
+        }
+    }
+}
